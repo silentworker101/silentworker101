@@ -79,19 +79,19 @@ Associate Product Developer at [**BMC Software**](https://github.com/bmcsoftware
 - End-to-end AI healthcare platform with unstructured data extraction from medical PDFs, lab reports, and diagnostic images
 - Clinical AI reasoning model generating plain-language patient summaries, risk highlights, and actionable next steps
 - Smart document parsing and OCR for complex medical data ingestion
-- **Hackathon:** AI for Bharat | AWS (Dec 2025 – Mar 2026)
+- **Hackathon:** AI for Bharat | AWS (Dec 2025 - Mar 2026)
 
 ---
 
 ## :briefcase: Work Experience
 
-**Associate Product Developer** - BMC Software (Jul 2022 – Apr 2026) · Bengaluru, India
+**Associate Product Developer** - BMC Software (Jul 2022 - Apr 2026) · Bengaluru, India
 - Designed AI-powered enterprise solutions: RAG systems, multi-agent AI workflows, and intelligent dashboards
 - Integrated Multi-Agent AI systems within existing web platforms for orchestrated workflows and real-time data integration
 - Architected a reusable RAG framework with confidence scoring, hallucination detection, and intelligent context management
 - SFT of lightweight transformer-based models on limited hardware for efficient experimentation
 
-**Product Development Intern** - BMC Software (Jan 2022 – Jul 2022) · Pune, India
+**Product Development Intern** - BMC Software (Jan 2022 - Jul 2022) · Pune, India
 - Created Jenkins Pipeline to manage VSAM and GDG Datasets on Mainframe
 
 **Back End Developer** - Celebal Technologies (Jul 2021) · Jaipur, India
